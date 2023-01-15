@@ -3,7 +3,7 @@
   "short_name": "PWA Test",
   "dir": "ltr",
   "lang": "en-us",
-  "start_url": "/mdl_pwa",
+  "start_url": "/mdl_pwa/",
   "orientation": "portrait-primary",
   "description": "A Bootstrap PWA",
   "scope": "/mdl_pwa/",
