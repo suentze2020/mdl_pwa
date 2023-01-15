@@ -6,7 +6,7 @@
   "start_url": "/mdl_pwa/",
   "orientation": "portrait-primary",
   "description": "A Bootstrap PWA",
-  "scope": "/mdl_pwa",
+  "scope": "/",
   "background_color": "#2C3E50",
   "theme_color": "#18BC9C",
   "display": "standalone",
