@@ -3,7 +3,7 @@
   "short_name": "PWA Test",
   "dir": "ltr",
   "lang": "en-us",
-  "start_url": "https://suen2020.github.io/mdl_pwa",
+  "start_url": "https://suen2020.github.io/mdl_pwa/index.html",
   "orientation": "portrait-primary",
   "description": "A Bootstrap PWA",
   "scope": "https://suen2020.github.io/mdl_pwa/",
