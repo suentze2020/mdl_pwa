@@ -123,6 +123,14 @@ footer {
   padding-right: 10px;
   background-color: silver;
 } */
+.mdl-tabs__tab-bar {
+  justify-content: space-evenly;
+  align-items: flex-end;
+}
+
+.mdl-tabs.is-upgraded .mdl-tabs__tab.is-active:after {
+  background: #217384;
+}
 
 @media only screen and (max-width: 600px) {
   main {
