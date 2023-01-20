@@ -27,6 +27,19 @@
   font-feature-settings: "liga";
 }
 
+.material-icons.md-18 {
+  font-size: 18px;
+}
+.material-icons.md-24 {
+  font-size: 24px;
+}
+.material-icons.md-36 {
+  font-size: 36px;
+}
+.material-icons.md-48 {
+  font-size: 48px;
+}
+
 main {
   background: url("https://getmdl.io/assets/demos/transparent.jpg") center /
     cover;
@@ -121,5 +134,14 @@ footer {
     color: honeydew;
     text-shadow: 2px 2px black; */
     margin-top: 10%;
+  }
+
+  .mdl-tabs__tab-bar {
+    justify-content: space-evenly;
+    align-items: flex-end;
+  }
+
+  .mdl-tabs.is-upgraded .mdl-tabs__tab.is-active:after {
+    background: #217384;
   }
 }
